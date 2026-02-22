@@ -1,0 +1,7 @@
+{
+  "min_green": 10,
+  "max_green": 60,
+  "cycle_limit": 120,
+  "density_thresholds": [5, 15],
+  "allocation_factor": 1.2
+}
